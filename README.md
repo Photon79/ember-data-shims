@@ -4,7 +4,7 @@ Ember CLI Shims
 About
 -----
 
-Ember Data Shims (ECS) contain all the shims for Ember Data.
+Ember Data Shims (EDS) contain all the shims for Ember Data.
 
 Usage
 -----
