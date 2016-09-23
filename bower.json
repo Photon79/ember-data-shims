@@ -14,9 +14,12 @@
     "**/.*",
     "vendor",
     "test",
-    "tests"
+    "tests",
+    "node_modules",
+    "bower_components"
   ],
   "dependencies": {
     "ember-data": ">=1.4"
-  }
+  },
+  "description": ""
 }
