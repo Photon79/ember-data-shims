@@ -5,48 +5,48 @@
       'ember-data': {
         'default': DS
       },
-      'ember-data/utils': {
+      'ember-data-shims/utils': {
         'BuildURLMixin': DS.BuildURLMixin,
         'InternalModel': DS.InternalModel,
         'Relationship': DS.Relationship,
         'RootState': DS.RootState,
         'Snapshot': DS.Snapshot
       },
-      'ember-data/model': {
+      'ember-data-shims/model': {
         'default': DS.Model
       },
-      'ember-data/adapter': {
+      'ember-data-shims/adapter': {
         'default': DS.Adapter,
         'JSONAPIAdapter': DS.JSONAPIAdapter,
         'RESTAdapter': DS.RESTAdapter
       },
-      'ember-data/serializer': {
+      'ember-data-shims/serializer': {
         'default': DS.Serializer,
         'JSONSerializer': DS.JSONSerializer,
         'JSONAPISerializer': DS.JSONAPISerializer,
         'RESTSerializer': DS.RESTSerializer
       }
-      'ember-data/store': {
+      'ember-data-shims/store': {
         'default': DS.Store
       },
-      'ember-data/transform': {
+      'ember-data-shims/transform': {
         'default': DS.Transform,
         'BooleanTransform': DS.BooleanTransform,
         'DateTransform': DS.DateTransform,
         'NumberTransform': DS.NumberTransform,
         'StringTransform': DS.StringTransform
       },
-      'ember-data/attrs': {
+      'ember-data-shims/attrs': {
         'default': DS.attr,
         'belongsTo': DS.belongsTo,
         'hasMany': DS.hasMany
       },
-      'ember-data/promises': {
+      'ember-data-shims/promises': {
         'PromiseArray': DS.PromiseArray,
         'PromiseManyArray': DS.PromiseManyArray,
         'PromiseObject': DS.PromiseObject
       },
-      'ember-data/errors': {
+      'ember-data-shims/errors': {
         'default': DS.Errors,
         'AbortError': DS.AbortError,
         'AdapterError': DS.AdapterError,
@@ -60,17 +60,17 @@
         'errorsHashToArray': DS.errorsHashToArray,
         'errorsArrayToHash': DS.errorsArrayToHash
       },
-      'ember-data/mixins': {
+      'ember-data-shims/mixins': {
         'EmbeddedRecordsMixin': DS.EmbeddedRecordsMixin
       },
-      'ember-data/arrays': {
+      'ember-data-shims/arrays': {
         'default': DS.RecordArray,
         'AdapterPopulatedRecordArray': DS.AdapterPopulatedRecordArray,
         'FilteredRecordArray': DS.FilteredRecordArray,
         'ManyArray': DS.ManyArray,
         'RecordArrayManager': DS.RecordArrayManager
       },
-      'ember-data/debug': {
+      'ember-data-shims/debug': {
         'default': DS.DebugAdapter
       }
     };

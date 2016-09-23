@@ -3,7 +3,7 @@
   "main": [
     "app-shims.js"
   ],
-  "version": "0.3.2",
+  "version": "0.3.3",
   "homepage": "https://github.com/Photon79/ember-data-shims",
   "authors": [
     "Sergey Mezentsev <photon79@gmail.com>"
