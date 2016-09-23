@@ -1,4 +1,4 @@
-Ember CLI Shims
+Ember Data Shims
 ===============
 
 About
