@@ -1,0 +1,21 @@
+{
+  "name": "ember-data-shims",
+  "main": [
+    "app-shims.js"
+  ],
+  "version": "0.1.1",
+  "homepage": "https://github.com/Photon79/ember-data-shims",
+  "authors": [
+    "Sergey Mezentsev <photon79@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ember": ">=1.4"
+  }
+}
