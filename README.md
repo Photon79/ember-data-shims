@@ -24,4 +24,4 @@ import { PromiseObject, PromiseArray } from 'ember-data/promises';
 License
 -------
 
-Ember Data Shims is [MIT Licensed](https://github.com/stefanpenner/ember-cli-shims/blob/master/LICENSE.md).
+Ember Data Shims is [MIT Licensed](https://github.com/Photon79/ember-data-shims/blob/master/LICENSE.md).
